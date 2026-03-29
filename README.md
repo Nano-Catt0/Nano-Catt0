@@ -1,5 +1,11 @@
 ## Meow 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nano-Catt0/Nano-Catt0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nano-Catt0/Nano-Catt0/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nano-Catt0/Nano-Catt0/output/github-snake.svg" />
+</picture>
+
 <!--
 **Nano-Catt0/Nano-Catt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
